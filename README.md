@@ -1,2 +1,12 @@
 # Spring-security
-# Spring security The follow list shows the algorithm-search implementation in this project: * Depth-first search * Breadth-first search * Uniform cost search * Best first search * A* algorithm
+Down below some of the technologies and approaches that will follow here:
+
+*Authentication
+*Authorization
+*Users
+*Roles
+*Authorities
+*CSRF
+*CORs
+*JWT
+*OAuth2
